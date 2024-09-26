@@ -1,0 +1,12 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 3000
+    },
+    "mongo": {
+        "url": "mongodb+srv://vamsiambati203:vxhBHIhQOx2nimFx@cluster0.xtz3ps4.mongodb.net/CarRentalService"
+    },
+    "socket": {
+        "port": 4000
+    }
+}
